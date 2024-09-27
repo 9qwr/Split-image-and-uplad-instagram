@@ -32,30 +32,33 @@ Facilitate uploading images to Instagram by splitting them into parts and upload
 
 ## كيفية الاستخدام
 1. قم بتثبيت المكتبات المطلوبة باستخدام:
-   ```bash
-   pip install Pillow instagrapi python-bidi
-شغل السكربت:
-bash
-Copy code
-python script.py
-أدخل مسار الصورة، واسم المستخدم، وكلمة المرور عند الطلب.
-How to Use
-Install the required libraries using:
-bash
-Copy code
 pip install Pillow instagrapi python-bidi
-Run the script:
-bash
-Copy code
+
+2. شغل السكربت:
 python script.py
-Enter the image path, username, and password when prompted.
-المساهمون
-ik48x
-Contributors
-ik48x
-ملاحظات
-تأكد من أن حسابك على إنستغرام مفعل وأنك تستخدم معلومات تسجيل الدخول الصحيحة.
-قد تحتاج إلى ضبط إعدادات الخصوصية على حساب إنستغرام للسماح بالتحميل.
-Notes
-Ensure that your Instagram account is active and that you are using the correct login information.
-You may need to adjust your Instagram account privacy settings to allow uploads.
+
+
+3. أدخل مسار الصورة، واسم المستخدم، وكلمة المرور عند الطلب.
+
+### How to Use
+1. Install the required libraries using:
+pip install Pillow instagrapi python-bidi
+
+python script.py
+
+
+3. Enter the image path, username, and password when prompted.
+
+## المساهمون
+- [ik48x](https://t.me/ik48x)
+
+### Contributors
+- [ik48x](https://t.me/ik48x)
+
+## ملاحظات
+- تأكد من أن حسابك على إنستغرام مفعل وأنك تستخدم معلومات تسجيل الدخول الصحيحة.
+- قد تحتاج إلى ضبط إعدادات الخصوصية على حساب إنستغرام للسماح بالتحميل.
+
+### Notes
+- Ensure that your Instagram account is active and that you are using the correct login information.
+- You may need to adjust your Instagram account privacy settings to allow uploads.
