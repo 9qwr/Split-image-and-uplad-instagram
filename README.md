@@ -3,6 +3,8 @@
 ## الغرض
 تسهيل تحميل الصور إلى إنستغرام عن طريق تقسيمها إلى أجزاء وتحميل كل جزء مع تسميات توضيحية خاصة.
 
+![image](https://github.com/user-attachments/assets/23f51ed0-1873-4cb4-8012-32991ec67441)
+
 ### Purpose
 Facilitate uploading images to Instagram by splitting them into parts and uploading each part with specific captions.
 
