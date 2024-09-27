@@ -37,7 +37,7 @@ Facilitate uploading images to Instagram by splitting them into parts and upload
 pip install Pillow instagrapi python-bidi
 
 2. شغل السكربت:
-python script.py
+python main.py
 
 
 3. أدخل مسار الصورة، واسم المستخدم، وكلمة المرور عند الطلب.
@@ -46,7 +46,7 @@ python script.py
 1. Install the required libraries using:
 pip install Pillow instagrapi python-bidi
 
-python script.py
+python main.py
 
 
 3. Enter the image path, username, and password when prompted.
